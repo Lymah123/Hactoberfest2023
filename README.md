@@ -10,3 +10,5 @@ Oct 3: I joined open source hour Making the Most of Hactoberdest, hosted by sauc
 Oct 4: I worked on 1 PR. I got two PRs approved. I had merged conflicts in one of my previous PRs. I spent a lot of time navigating my way around it. I learned a lot from it. But I couldn't fix it that day.
 
 Oct 5:I resolved the merged conflicts. I worked on a PR. A maintainer approved one of my PRs. I raised an issue with adding a feature.
+
+Oct 6: One of my PRs got merged. I worked on one new PR. I worked on suggestions made on two of my PRs. I was assigned to fix the API issue in the repo.
