@@ -24,3 +24,5 @@ Oct 10: I joined open source hour(Twitter space by OpenSauced) on the topic 'bur
 Oct 11: I was assigned to work on two new tasks. I started working on one PR. I upvote Open-Sauced on the product hunt for the launch of the Open-Sauced Highlight app. I got a panted tree email from Hactoberfest. I joined the Twitch stream for the contributors' shouts by open-sauced.
 
 Oct 12: I worked on a PR. I submitted a PR. I resolved merge conflicts on a PR. I made changes to the suggestion I received on a PR.
+
+Oct13: I started working on adding to OpenSauced pizza-verse.
