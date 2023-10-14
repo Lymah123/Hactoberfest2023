@@ -26,3 +26,5 @@ Oct 11: I was assigned to work on two new tasks. I started working on one PR. I 
 Oct 12: I worked on a PR. I submitted a PR. I resolved merge conflicts on a PR. I made changes to the suggestion I received on a PR.
 
 Oct13: I started working on adding to OpenSauced pizza-verse.
+
+Oct14: I added a regional pizza recipe to OpenSuced pizza-verse. I added How to make Nigerian pizza
