@@ -27,4 +27,4 @@ Oct 12: I worked on a PR. I submitted a PR. I resolved merge conflicts on a PR. 
 
 Oct13: I started working on adding to OpenSauced pizza-verse.
 
-Oct14: I added a regional pizza recipe to OpenSuced pizza-verse. I added How to make Nigerian pizza
+Oct14: I added a regional pizza recipe to OpenSuced pizza-verse. I added how to make Nigerian pizza. I made changes to the suggestions on the PR.
