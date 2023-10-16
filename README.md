@@ -31,3 +31,4 @@ Oct 14: I added a regional pizza recipe to OpenSuced pizza-verse. I added how to
 
 Oct 15: I got a PR merged. I raised an issue on Repo.
 
+Oct 16: I raise an issue on a Repo. 
