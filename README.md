@@ -1,5 +1,5 @@
 # Hactoberfest2023
-Repo for my hactobeerfest2023 journey
+Repo for my Hactoberfest2023 journey
 
 Oct 1: I worked on algorithm contribution.
 
