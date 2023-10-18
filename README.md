@@ -35,4 +35,4 @@ Oct 16: I raised an issue on Repo. Two PRs got approved by Hactoberfest. I have 
 
 Oct 17: I have a new task to work on. I submitted a PR.
 
-Oct 18: 
+Oct 18: I submitted a PR to Chimoney repo on their contributing guide.
