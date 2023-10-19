@@ -5,7 +5,7 @@ Oct 1: I worked on the algorithm contribution.
 
 Oct 2: I modified a section at Open-Sauced Docs. I searched for more projects under Hactoberfest2023
 
-Oct 3: I joined open source hour(Twitter space) on the topic Making the Most of Hactoberdest, hosted by OpenSauced. I worked on 2 PRs. One of my PRs got merged. Comprehensive Contributing guide to Open Source
+Oct 3: I joined open source hour(Twitter space) on the topic Making the Most of Hactoberdest, hosted by OpenSauced. I worked on 2 PRs. One of my PRs got merged. Comprehensive Contributing Guide to Open Source
 
 Oct 4: I worked on 1 PR. I got two PRs approved. I had merged conflicts in one of my previous PRs. I spent a lot of time navigating my way around it. I learned a lot from it. But I couldn't fix it that day.
 
