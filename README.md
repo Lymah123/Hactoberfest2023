@@ -38,3 +38,5 @@ Oct 17: I have a new task to work on. I submitted a PR.
 Oct 18: I submitted a PR to Chimoney Repo on their contributing guide. I got a PR merged on OpenSauced's docs.
 
 Oct 19: I forked the mdn-content repo to work on. I studied the repository. I added a more comprehensive guide to Chimoney's PR I am working on. Which is; onboarding new contributors with virtual environments like Gitpod and CodeSpaces.
+
+Oct 20: I added my name to OpenSauced guestbook.
