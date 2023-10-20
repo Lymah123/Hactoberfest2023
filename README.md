@@ -33,7 +33,7 @@ Oct 15: I got a PR merged. I raised an issue on Repo.
 
 Oct 16: I raised an issue on Repo. Two PRs got approved by Hactoberfest. I have one waiting to be approved.
 
-Oct 17: I have a new task to work on. I submitted a PR.
+Oct 17: I have a new task to work on. I submitted a PR. It has been reviewed and merged.
 
 Oct 18: I submitted a PR to Chimoney Repo on their contributing guide. I got a PR merged on OpenSauced's docs.
 
