@@ -41,5 +41,5 @@ Oct 19: I forked the mdn-content repo to work on. I studied the repository. I ad
 
 Oct 20: I added my name to the OpenSauced guestbook. It has been reviewed and merged. I signed up for the virtual coffee membership waitlist
 
-Oct 21: I asked on repo if someone has not been working on an issue yet.
+Oct 21: I asked on repo if someone has not been working on an issue yet. I asked if I could be assigned to the issue before starting to work on it.
 
