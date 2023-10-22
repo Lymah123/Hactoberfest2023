@@ -43,3 +43,4 @@ Oct 20: I added my name to the OpenSauced guestbook. It has been reviewed and me
 
 Oct 21: I asked on repo if someone has not been working on an issue yet. I asked if I could be assigned to the issue before starting to work on it.
 
+Oct 22: Today,  I  received some suggestions on a PR.
