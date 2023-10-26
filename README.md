@@ -51,3 +51,4 @@ Oct 24: I started working on a new pull request.
 
 Oct 25: I joined OpenSauced Shoutout on Twitch. I joined the TBD live session on Discord. I submitted a PR. A PR got merged.
 
+Oct 26: I looked for more issues to work on in the repos. I forked the backend repo to checkout.
