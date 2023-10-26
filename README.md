@@ -48,3 +48,5 @@ Oct 22: Today,  I  received some suggestions on a PR.
 Oct 23: Today, I worked on one repo. Chimoney repo, onboarding enhancement I was assigned to work on a new issue at the OpenSauced repo. I forked the Devlab repo.
 
 Oct 24: I started working on a new pull request.
+
+Oct 25: I joined OpenSauced Shoutout on Twitch. I joined the TBD live session on Discord. 
