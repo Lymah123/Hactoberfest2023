@@ -3,7 +3,7 @@ Repo for my Hactoberfest2023 journey
 
 Oct 1: I worked on the algorithm contribution.
 
-Oct 2: I modified a section at Open-Sauced Docs. I searched for more projects under Hactoberfest2023
+Oct 2: I modified a section at Open-Sauced Docs. I searched for more projects under Hactoberfest 2023.
 
 Oct 3: I joined an open source hour (Twitter space) on the topic Making the Most of Hactoberdest, hosted by OpenSauced. I worked on 2 PRs. One of my PRs got merged. Comprehensive Contributing Guide to Open Source
 
