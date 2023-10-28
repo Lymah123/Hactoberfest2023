@@ -54,3 +54,5 @@ Oct 25: I joined OpenSauced Shoutout on Twitch. I joined the TBD live session on
 Oct 26: I looked for more issues to work on in the repos. I forked the backend repo to checkout.
 
 Oct 27: I raised 3 issues on DevLab's repo for slop 3.0 projects. I was assigned to a new issue. I submitted a PR. I worked on suggestions made in a PR.
+
+Oct 28: I started working on a new issue
