@@ -57,4 +57,4 @@ Oct 27: I raised 3 issues on DevLab's repo for slop 3.0 projects. I was assigned
 
 Oct 28: I started working on a new issue.
 
-
+Oct 29: 
