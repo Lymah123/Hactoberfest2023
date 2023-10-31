@@ -64,4 +64,6 @@ Oct 28: I looked for some PRs. I cloned the DevLab's assigned issue.
 
 Oct 29: I worked on a PR.
 
-Oct 30: I worked on a PR. I was off virtual coffee waiting list
+Oct 30: I worked on a PR. I was off virtual coffee waiting list.
+
+Oct 31: I made final update on Chimoney projact PR.
