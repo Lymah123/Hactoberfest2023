@@ -66,4 +66,4 @@ Oct 29: I worked on a PR.
 
 Oct 30: I worked on a PR. I was off virtual coffee waiting list. I recived $25 on a 1 merged PR from Chimoney project.
 
-Oct 31: I made final update on Chimoney projact PR.
+Oct 31: I made final update on Chimoney project PR.
