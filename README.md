@@ -40,7 +40,7 @@ Oct 18: I submitted a PR to Chimoney Repo on their contributing guide. I got a P
 
 Oct 19: I forked the mdn-content repo to work on. I studied the repository. I added a more comprehensive guide to Chimoney's PR, which I am working on. Which is; onboarding new contributors with virtual environments like GitPod and CodeSpaces.
 
-Oct 20: I added my name to the OpenSauced guestbook. It has been reviewed and merged. I signed up for the virtual coffee membership waitlist
+Oct 20: I added my name to the OpenSauced guestbook. It has been reviewed and merged. I signed up for the virtual coffee membership waitlist.
 
 Oct 21: I asked on repo if someone has not been working on an issue yet. I asked if I could be assigned to the issue before starting to work on it.
 
