@@ -10,7 +10,7 @@ Oct 3: I joined an open source hour (Twitter space) on the topic Making the Most
 
 Oct 4: I worked on 1 PR. I got two PRs approved. I had merged conflicts in one of my previous PRs. I spent a lot of time navigating my way around it. I learned a lot from it. But I couldn't fix it that day.
 
-Oct 5:I resolved the merged conflicts. I worked on a PR. A maintainer approved one of my PRs. I raised an issue with adding a feature
+Oct 5:I resolved the merged conflicts. I worked on a PR. A maintainer approved one of my PRs. I raised an issue with adding a feature.
 
 Oct 6: One of my PRs got merged. I worked on one new PR. I worked on suggestions made on two of my PRs. I was assigned to fix the API issue in the repo.
 
@@ -56,7 +56,7 @@ Oct 26: I looked for more issues to work on in the repos. I forked the backend r
 
 Oct 27: I raised 3 issues on DevLab's repo for slop 3.0 projects. I was assigned to a new issue. I submitted a PR. I worked on suggestions made in a Chimoney PR.
 
-Oct 28: I started working on a new issue.
+Oct 28: I started working on a new issue
 
 Oct 29: I made corrections based on suggestions in a PR.
 
@@ -66,4 +66,4 @@ Oct 29: I worked on a PR.
 
 Oct 30: I worked on a PR. I was off the virtual coffee waiting list. I received $25 on a 1 merged PR from Chimoney project.
 
-Oct 31: I made the final update on Chimoney Project PR
+Oct 31: I made the final update on Chimoney Project PR.
