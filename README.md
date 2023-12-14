@@ -56,7 +56,7 @@ Oct 26: I looked for more issues to work on in the repos. I forked the backend r
 
 Oct 27: I raised 3 issues on DevLab's repo for slop 3.0 projects. I was assigned to a new issue. I submitted a PR. I worked on suggestions made in a Chimoney PR.
 
-Oct 28: I started working on a new issue
+Oct 28: I started working on a new issue.
 
 Oct 29: I made corrections based on suggestions in a PR.
 
