@@ -2,7 +2,7 @@
 
 Repo for my Hactoberfest 2023 journey.
 
-Oct 1: I worked on the algorithm contribution
+Oct 1: I worked on the algorithm contribution.
 
 Oct 2: I modified a section at Open-Sauced Docs. I searched for more projects under Hactoberfest 2023
 
